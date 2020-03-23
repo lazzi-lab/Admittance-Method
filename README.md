@@ -44,7 +44,7 @@ https://itemsusc.org/wp-content/uploads/2020/03/Cela_Dissertation.pdf
 
 Main Developer:  Carlos J. Cela
 
-This code was initially developed at North Carolina State University, as part of his Ph.D. thesis work.
+This code was initially developed by Carlos Cela at North Carolina State University, as part of his Ph.D. thesis work.
 
 
 
