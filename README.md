@@ -42,9 +42,9 @@ https://itemsusc.org/wp-content/uploads/2020/03/Cela_Dissertation.pdf
 
 # Development
 
-Main Developer:  Carlos J. Cela
+Developers:  Gianluca Lazzi, Carlos J. Cela, Kyle Loizos, Guanbo Chen, and Jinze Du.
 
-This code was initially developed by Carlos Cela at North Carolina State University, as part of his Ph.D. thesis work.
+Development performed at NC State University, University of Utah, and the University of Southern California.
 
 
 
